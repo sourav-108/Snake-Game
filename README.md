@@ -1,4 +1,4 @@
-# 🐍 Professional Snake Game
+# 🐍 Snake Game
 
 A classic Snake Game built with **Java Swing** featuring a clean dark interface, smooth gameplay, keyboard controls, score tracking, high score management, collision detection, and restart functionality.
 
